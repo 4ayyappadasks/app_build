@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "733383123448",
+    "project_id": "apk-builder-1bcca",
+    "storage_bucket": "apk-builder-1bcca.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:733383123448:android:bdf2edc99bda2678c4760d",
+        "android_client_info": {
+          "package_name": "com.example.app_build"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "733383123448-5cm5ng42c6cihnk35i0dki4ecbfbql9c.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAglcNfx2S52DYYZ28f9SCQ04OY-dPgMgQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "733383123448-5cm5ng42c6cihnk35i0dki4ecbfbql9c.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
